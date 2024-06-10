@@ -4,4 +4,4 @@ xhofe/alist
 deluan/navidrome
 xiaoyaliu/alist
 linuxserver/qbittorrent
-nyanmisaka/jellyfin
+linuxserver/heimdall

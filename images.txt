@@ -11,3 +11,9 @@ homeassistant/home-assistant
 linuxserver/syncthing
 linuxserver/nextcloud
 mariadb
+linuxserver/chromium
+photoprism/photoprism
+netdata/netdata
+cnk3x/xunlei
+zerotier/zerotier
+hotio/qbittorrent

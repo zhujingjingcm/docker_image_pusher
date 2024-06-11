@@ -5,4 +5,3 @@ deluan/navidrome
 xiaoyaliu/alist
 linuxserver/qbittorrent
 linuxserver/heimdall
-nyanmisaka/jellyfin

@@ -5,3 +5,4 @@ deluan/navidrome
 xiaoyaliu/alist
 linuxserver/qbittorrent
 linuxserver/heimdall
+portainer/portainer-ce

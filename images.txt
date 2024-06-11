@@ -6,3 +6,5 @@ xiaoyaliu/alist
 linuxserver/qbittorrent
 linuxserver/heimdall
 portainer/portainer-ce
+xiaoyaliu/alist
+homeassistant/home-assistant

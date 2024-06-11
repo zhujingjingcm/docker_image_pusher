@@ -8,3 +8,6 @@ linuxserver/heimdall
 portainer/portainer-ce
 xiaoyaliu/alist
 homeassistant/home-assistant
+linuxserver/syncthing
+linuxserver/nextcloud
+mariadb

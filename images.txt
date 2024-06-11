@@ -17,3 +17,4 @@ netdata/netdata
 cnk3x/xunlei
 zerotier/zerotier
 hotio/qbittorrent
+linuxserver/msedge
